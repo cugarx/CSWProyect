@@ -1,0 +1,10 @@
+C:\Users\18812\Documents\Visual Studio 2015\Projects\LibraryCSW\LibraryCSW.infrastructure\bin\Debug\LibraryCSW.infrastructure.dll.config
+C:\Users\18812\Documents\Visual Studio 2015\Projects\LibraryCSW\LibraryCSW.infrastructure\bin\Debug\LibraryCSW.infrastructure.dll
+C:\Users\18812\Documents\Visual Studio 2015\Projects\LibraryCSW\LibraryCSW.infrastructure\bin\Debug\LibraryCSW.infrastructure.pdb
+C:\Users\18812\Documents\Visual Studio 2015\Projects\LibraryCSW\LibraryCSW.infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\18812\Documents\Visual Studio 2015\Projects\LibraryCSW\LibraryCSW.infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\18812\Documents\Visual Studio 2015\Projects\LibraryCSW\LibraryCSW.infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\18812\Documents\Visual Studio 2015\Projects\LibraryCSW\LibraryCSW.infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\18812\Documents\Visual Studio 2015\Projects\LibraryCSW\LibraryCSW.infrastructure\obj\Debug\LibraryCSW.infrastructure.dll
+C:\Users\18812\Documents\Visual Studio 2015\Projects\LibraryCSW\LibraryCSW.infrastructure\obj\Debug\LibraryCSW.infrastructure.pdb
+C:\Users\18812\Documents\Visual Studio 2015\Projects\LibraryCSW\LibraryCSW.infrastructure\obj\Debug\LibraryCSW.infrastructure.csprojResolveAssemblyReference.cache
